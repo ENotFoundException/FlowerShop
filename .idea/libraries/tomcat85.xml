@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="tomcat85">
+    <CLASSES>
+      <root url="file://D:/tomcat/tomcat85" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://D:/tomcat/tomcat85/webapps/docs/appdev/sample/src" />
+      <root url="file://D:/tomcat/tomcat85/webapps/examples/WEB-INF/classes" />
+      <root url="file://D:/tomcat/tomcat85/webapps/examples/WEB-INF/jsp/applet" />
+      <root url="file://D:/tomcat/tomcat85/webapps/examples/jsp/plugin/applet" />
+      <root url="file://D:/tomcat/tomcat85/work/Catalina/localhost/ROOT" />
+      <root url="file://D:/tomcat/tomcat85/work/Catalina/localhost/Test1" />
+      <root url="file://D:/tomcat/tomcat85/work/Catalina/localhost/weixin" />
+      <root url="file://D:/tomcat/tomcat85" />
+    </SOURCES>
+    <jarDirectory url="file://D:/tomcat/tomcat85" recursive="false" />
+    <jarDirectory url="file://D:/tomcat/tomcat85" recursive="false" type="SOURCES" />
+  </library>
+</component>

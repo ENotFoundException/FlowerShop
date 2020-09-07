@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="src">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/WebContent/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src" />
+      <root url="jar://$USER_HOME$/.ideaLibSources/mysql-connector-java-5.1.21-sources.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/WebContent/lib" recursive="false" />
+  </library>
+</component>
